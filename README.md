@@ -1,15 +1,17 @@
 # Week-4-Web-Application-Penetration-Testing
 Networkwalks Cybersecurity Internship
-Project Overview
 
-This project documents the activities and findings from Week 4 of my Networkwalks Cybersecurity Internship.
+PROJECT OVERVIEW
 
-The assessment focused on identifying web application security weaknesses, exposed resources, authentication-related concerns, and document security issues within an authorized testing environment.
+-This project documents the activities and findings from Week 4 of my Networkwalks Cybersecurity Internship.
+
+-The assessment focused on identifying web application security weaknesses, exposed resources, authentication-related concerns, and document security issues within an authorized testing environment.
 
 The objective was to apply penetration testing methodologies, understand security risks, and recommend appropriate remediation measures.
 
 
-Objectives
+OBJECTIVES
+
 -Perform reconnaissance and service enumeration.
 
 -Identify exposed web directories and resources.
@@ -23,7 +25,7 @@ Objectives
 -Document vulnerabilities and remediation recommendations.
 
 
-Tools and Technologies
+TOOLS AND TECHNOLOGIES
 
 -Kali Linux - Testing environment
 
@@ -46,7 +48,7 @@ Tools and Technologies
 -qpdf - PDF encryption inspection
 
 
-Methodology
+METHODOLOGY
 
 1. Reconnaissance
 Performed initial information gathering to identify the target's accessible services and web technologies.
@@ -67,7 +69,7 @@ Examined PDF encryption settings and metadata using ExifTool, pdfinfo, and qpdf.
 Prepared findings with descriptions, potential impact, provisional severity, and remediation recommendations.
 
 
-Key Findings
+KEY FINDINGS
 
 Finding 1 – Publicly Accessible Database Backup
 A historical SQL backup was accessible through a public web directory and contained sensitive organizational records.
@@ -89,7 +91,8 @@ PDF encryption and metadata properties were examined using document analysis uti
 Recommendation: Apply appropriate encryption, access controls, and secure document storage practices.
 
 
-Key Learnings
+KEY LEARNINGS
+
 -Practical reconnaissance and enumeration.
 
 -Understanding web application security misconfigurations.
@@ -103,13 +106,17 @@ Key Learnings
 -Risk assessment and remediation planning.
 
 
-Disclaimer
-This repository is intended for educational and professional portfolio purposes.
-All testing was conducted within the authorized assessment scope.
-No patient information, credentials, password hashes, database contents, session tokens, or confidential documents are included in this repository.
-The findings are summarized for security learning and responsible disclosure.
+DISCLAIMER
 
-Author: Prajin P K
+-This repository is intended for educational and professional portfolio purposes.
+
+-All testing was conducted within the authorized assessment scope.
+
+-No patient information, credentials, password hashes, database contents, session tokens, or confidential documents are included in this repository.
+
+-The findings are summarized for security learning and responsible disclosure.
+
+AUTHOR: Prajin P K
 Program: Networkwalks Cybersecurity Internship
 Focus: Web Application Security | Penetration Testing | Cybersecurity
 
