@@ -18,9 +18,9 @@ Document vulnerabilities and remediation recommendations.
 
 Tools and Technologies
 
-Tool                                 Usage
-Kali Linux                           Testing environment
-Nmap                                 Port scanning and service enumeration
+Tool Usage
+Kali Linux-Testing environment
+Nmap-Port scanning and service enumeration
 WhatWeb                              Web technology identification
 Gobuster                             Directory discovery
 curl                                 HTTP response inspection
