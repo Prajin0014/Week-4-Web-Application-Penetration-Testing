@@ -10,40 +10,40 @@ The objective was to apply penetration testing methodologies, understand securit
 
 
 Objectives
-Perform reconnaissance and service enumeration.
+-Perform reconnaissance and service enumeration.
 
-Identify exposed web directories and resources.
+-Identify exposed web directories and resources.
 
-Examine authentication security.
+-Examine authentication security.
 
-Identify sensitive information exposure.
+-Identify sensitive information exposure.
 
-Analyze PDF encryption and metadata.
+-Analyze PDF encryption and metadata.
 
-Document vulnerabilities and remediation recommendations.
+-Document vulnerabilities and remediation recommendations.
 
 
 Tools and Technologies
 
-Kali Linux - Testing environment
+-Kali Linux - Testing environment
 
-Nmap - Port scanning and service enumeration
+-Nmap - Port scanning and service enumeration
 
-WhatWeb - Web technology identification
+-WhatWeb - Web technology identification
 
-Gobuster- Directory discovery
+-Gobuster- Directory discovery
 
-curl- HTTP response inspection
+-curl- HTTP response inspection
 
-John the Ripper - Password-auditing practice
+-John the Ripper - Password-auditing practice
 
-pdf2john - PDF hash extraction in the training lab
+-pdf2john - PDF hash extraction in the training lab
 
-ExifTool - Metadata analysis
+-ExifTool - Metadata analysis
 
-pdfinfo - PDF properties
+-pdfinfo - PDF properties
 
-qpdf - PDF encryption inspection
+-qpdf - PDF encryption inspection
 
 
 Methodology
@@ -90,17 +90,17 @@ Recommendation: Apply appropriate encryption, access controls, and secure docume
 
 
 Key Learnings
-Practical reconnaissance and enumeration.
+-Practical reconnaissance and enumeration.
 
-Understanding web application security misconfigurations.
+-Understanding web application security misconfigurations.
 
-Identifying sensitive information exposure.
+-Identifying sensitive information exposure.
 
-Understanding PDF encryption and metadata.
+-Understanding PDF encryption and metadata.
 
-Evidence-based vulnerability reporting.
+-Evidence-based vulnerability reporting.
 
-Risk assessment and remediation planning.
+-Risk assessment and remediation planning.
 
 
 Disclaimer
