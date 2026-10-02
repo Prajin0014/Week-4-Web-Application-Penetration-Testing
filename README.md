@@ -8,28 +8,43 @@ The assessment focused on identifying web application security weaknesses, expos
 
 The objective was to apply penetration testing methodologies, understand security risks, and recommend appropriate remediation measures.
 
+
 Objectives
 Perform reconnaissance and service enumeration.
+
 Identify exposed web directories and resources.
+
 Examine authentication security.
+
 Identify sensitive information exposure.
+
 Analyze PDF encryption and metadata.
+
 Document vulnerabilities and remediation recommendations.
+
 
 Tools and Technologies
 
-1.Kali Linux-Testing environment
+Kali Linux - Testing environment
 
-2.Nmap-Port scanning and service enumeration
+Nmap - Port scanning and service enumeration
 
-3.WhatWeb                              Web technology identification
-Gobuster                             Directory discovery
-curl                                 HTTP response inspection
-John the Ripper                      Password-auditing practice
-pdf2john                             PDF hash extraction in the training lab
-ExifTool                             Metadata analysis
-pdfinfo                              PDF properties
-qpdf                                 PDF encryption inspection
+WhatWeb - Web technology identification
+
+Gobuster- Directory discovery
+
+curl- HTTP response inspection
+
+John the Ripper - Password-auditing practice
+
+pdf2john - PDF hash extraction in the training lab
+
+ExifTool - Metadata analysis
+
+pdfinfo - PDF properties
+
+qpdf - PDF encryption inspection
+
 
 Methodology
 
@@ -50,6 +65,7 @@ Examined PDF encryption settings and metadata using ExifTool, pdfinfo, and qpdf.
 
 6. Reporting
 Prepared findings with descriptions, potential impact, provisional severity, and remediation recommendations.
+
 
 Key Findings
 
@@ -72,13 +88,20 @@ Finding 4 – PDF Encryption Analysis
 PDF encryption and metadata properties were examined using document analysis utilities.
 Recommendation: Apply appropriate encryption, access controls, and secure document storage practices.
 
+
 Key Learnings
 Practical reconnaissance and enumeration.
+
 Understanding web application security misconfigurations.
+
 Identifying sensitive information exposure.
+
 Understanding PDF encryption and metadata.
+
 Evidence-based vulnerability reporting.
+
 Risk assessment and remediation planning.
+
 
 Disclaimer
 This repository is intended for educational and professional portfolio purposes.
